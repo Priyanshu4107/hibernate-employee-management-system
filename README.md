@@ -24,8 +24,8 @@ A Java-based Employee Management System developed using **Hibernate ORM** and **
 ## 📚 Hibernate Concepts Used
 
 * Hibernate Configuration
-* `SessionFactory`
-* `Session`
+* `SessionFactory
+* `Session
 * HQL
 * Entity Mapping
 * Hibernate Annotations
@@ -34,7 +34,6 @@ A Java-based Employee Management System developed using **Hibernate ORM** and **
 
 ## 🗂️ Project Structure
 
-```text
 src/
  └── main/
      └── java/
@@ -42,14 +41,14 @@ src/
          ├── dao/
          ├── service/
          └── main/
-```
+
 
 ## ⚙️ How to Run
 
 1. Clone the repository.
 2. Create a MySQL database.
 3. Configure the database credentials in the Hibernate configuration file.
-4. Update the required dependencies in `pom.xml`.
+4. Update the required dependencies in pom.xml.
 5. Run the main Java class.
 6. Perform employee CRUD operations.
 
